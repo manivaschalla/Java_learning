@@ -1,0 +1,9 @@
+package com;
+
+public class rangeRover extends Vehicle {
+	
+	void gare(){
+		System.out.println("Automatic..1");
+	}
+
+}
